@@ -1,0 +1,24 @@
+[
+  {
+    "attributes": {
+      "title": "Genesys Cloud CX™️ & Google Cloud",
+      "level": 300,
+      "duration": "2 hours",
+      "image": "",
+      "description": "See the power of Genesys Cloud CX and Google Cloud CCAI. Set up both integrations with Agent Assist and Dialogflow CX into your own Genesys Cloud CX instance.",
+      "platform": "GenesysCloudCX",
+      "categories": ["GenesysCloudCX","AppFoundry"],
+      "tags": [
+        "DeveloperCenter",
+        "GoogleCloud",
+        "Integration",
+        "AI"
+      ],
+      "workshop_url": "https://workshop.genesys.com/workshops/DialogFlowCXandAgentAssist/"
+    },
+    "body": "Learn how to deploy and configure Genesys Multicloud CX™ with a step-by-step guide and automated provisioning",
+    "bodyBegin": 20,
+    "frontmatter": "title: Genesys DX\nlevel: 200\nduration: 4 hours\ndate: 2020-06-30\nimage: Genesys-workshop-MultiCX.png\ndescription: Learn how to deploy and configure Genesys Multicloud CX™\nplatform: multicloud\n\n# categories is the overall themes covered. \ncategories: [MultiCloudCX]\n\n# tags are the technologies covered in the workshop\ntags: [Fundamentals, GDemo, Interactions, Analytics, Designer]\n\n# Full URL to the workshop\nworkshop_url: multicx-basics/",
+    "filename": "dx-basics.md"
+  }
+]
